@@ -1,2 +1,3 @@
 # shuwithu.github.io
-new personal portfolio
+Personal portfolio for self-therapy (WIP):
+
