@@ -1,3 +1,3 @@
 # shuwithu.github.io
-Personal portfolio for self-therapy (WIP):
+Long-term (WIP):
 https://shuwithu.github.io/
